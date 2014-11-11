@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1343686808 source:g:\code_house\working_house\gaming project\game_now\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+	<map>
+	<queue>
+	<algorithm>
+	<sstream>
+	<time.h>
+	<graphics.h>
+	<windows.h>
+	<MMSystem.h>
+
+1343779998 source:c:\users\pc\desktop\game_now\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+	<map>
+	<queue>
+	<algorithm>
+	<sstream>
+	<time.h>
+	<graphics.h>
+	<windows.h>
+	<MMSystem.h>
+
+1343780000 source:f:\gameproject\gameproject-100( afjal &  shaha  )\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+	<map>
+	<queue>
+	<algorithm>
+	<sstream>
+	<time.h>
+	<graphics.h>
+	<windows.h>
+	<MMSystem.h>
+
