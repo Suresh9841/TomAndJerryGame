@@ -11,7 +11,7 @@ Within a small time & move<br>
 If your level up............<br>
 time & move can be shrinked<br>
 
-#####Algorithm: Random number generator,Breadth-first search for grid validation,Shortest-Path algorithm for reguire move count
+#####Algorithm: Random number generator,Breadth-first search for grid validation,Shortest-Path algorithm for require move count
 ##### Use: c++,openGL
 
 
